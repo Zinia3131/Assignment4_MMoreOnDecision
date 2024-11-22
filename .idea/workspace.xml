@@ -1,11 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="92f6a283-04d1-462c-be63-b44b618659b8" name="Changes" comment="" />
+    <list default="true" id="92f6a283-04d1-462c-be63-b44b618659b8" name="Changes" comment="E-5.19_Comparing number Program has been commited" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="E-5.16" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
@@ -19,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "E-5.17",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Lenovo/IdeaProjects/MoreOnDecision/src/Main.java"
   }
@@ -32,7 +51,91 @@
       <option name="presentableId" value="Default" />
       <updated>1732244501843</updated>
     </task>
+    <task id="LOCAL-00001" summary="E-5.13_letter grade convertor has been commited">
+      <option name="closed" value="true" />
+      <created>1732244973021</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732244973021</updated>
+    </task>
+    <task id="LOCAL-00002" summary="E-5.11_Compass Direction Program has been commited">
+      <option name="closed" value="true" />
+      <created>1732245403448</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732245403448</updated>
+    </task>
+    <task id="LOCAL-00003" summary="E-5.14_Numeric To LetterGrade Program has been commited">
+      <option name="closed" value="true" />
+      <created>1732245751414</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732245751414</updated>
+    </task>
+    <task id="LOCAL-00004" summary="E-5.14_Numeric To LetterGrade Program has been commited">
+      <option name="closed" value="true" />
+      <created>1732245816642</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732245816642</updated>
+    </task>
+    <task id="LOCAL-00005" summary="E-5.15_Bangladesh income Tax Calculator Program has been commited">
+      <option name="closed" value="true" />
+      <created>1732246138773</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732246138773</updated>
+    </task>
+    <task id="LOCAL-00006" summary="E-5.16_Card Method Program has been commited">
+      <option name="closed" value="true" />
+      <created>1732246722998</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732246722998</updated>
+    </task>
+    <task id="LOCAL-00007" summary="E-5.1&amp;_Finding the LARGGEEST NUMBER Program has been commited">
+      <option name="closed" value="true" />
+      <created>1732246883388</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1732246883388</updated>
+    </task>
+    <task id="LOCAL-00008" summary="E-5.18_&amp;_Sorting String Program has been commited">
+      <option name="closed" value="true" />
+      <created>1732246974798</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732246974798</updated>
+    </task>
+    <task id="LOCAL-00009" summary="E-5.19_Comparing number Program has been commited">
+      <option name="closed" value="true" />
+      <created>1732247041292</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1732247041292</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="E-5.13_letter grade convertor has been commited" />
+    <MESSAGE value="E-5.11_Compass Direction Program has been commited" />
+    <MESSAGE value="E-5.14_Numeric To LetterGrade Program has been commited" />
+    <MESSAGE value="E-5.15_Bangladesh income Tax Calculator Program has been commited" />
+    <MESSAGE value="E-5.16_Card Method Program has been commited" />
+    <MESSAGE value="E-5.1&amp;_Finding the LARGGEEST NUMBER Program has been commited" />
+    <MESSAGE value="E-5.18_&amp;_Sorting String Program has been commited" />
+    <MESSAGE value="E-5.19_Comparing number Program has been commited" />
+    <option name="LAST_COMMIT_MESSAGE" value="E-5.19_Comparing number Program has been commited" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -41,6 +144,11 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Grade2.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
