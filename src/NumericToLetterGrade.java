@@ -9,7 +9,6 @@ public class NumericToLetterGrade {
 
         Grade2 grade = new Grade2(numericGrade);
 
-        // Get the letter grade and print the result
         String letterGrade = grade.getLetterGrade();
         if (letterGrade.equals("Invalid grade")) {
             System.out.println("Invalid numeric grade entered.");
